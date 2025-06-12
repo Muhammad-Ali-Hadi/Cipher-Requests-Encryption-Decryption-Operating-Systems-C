@@ -3,6 +3,9 @@ _This project implements a multi-request cipher encryption-decryption system in 
 
 **🚀 Features:**  
 _Accepts up to 4 encryption and 4 decryption requests at a time._  
+
+**Flow of Execution:**  
+https://www.canva.com/design/DAGlLK8CKMU/A0sX1gWhyKQ8kM99RvW1ZA/view?utm_content=DAGlLK8CKMU&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=hbbdc1aeddc  
   
 **Supports two encryption algorithms:**  
 _Caesar Cipher  
